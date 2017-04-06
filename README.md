@@ -15,3 +15,4 @@ Then I consruct the Simultaneous T2 intervals of the entire data set and the dat
 
 Simultaneous intervals are wider than the Bonferrno intervals as one would expect. Bonferroni Intervals without outliers give us the narrowest intervals.
 
+The file "Plots1" shows plots with outliers. "Plot2" shows plots without outliers. "Intervals" is a screenshot of the intervals obtained from the program
